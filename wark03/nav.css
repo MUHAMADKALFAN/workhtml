@@ -1,0 +1,71 @@
+#Sunnyside{
+    padding-left: 100px;
+}
+.nov01{
+   height: 900px;
+   width: 100%;
+   /* background-size: cover; */
+   /* background-image:url("../wark03/New\ folder/.jpg")  ; */
+   background:url('image-header.jpg') bottom ;
+}
+#CREATIVES{
+    text-align: center;
+    margin-top: 500px;
+    color: white;
+    text-size-adjust:35px;
+}
+.LEARN{
+    padding:12vw;
+}
+#ima{
+    width: 100%;
+    height: 100%;
+}
+#zx{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+}
+#mn{
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mn{
+    padding: 12vw;
+}
+.vb{
+    background:url('../wark03/image-graphic-design.jpg') no-repeat;
+    background-size: 100%;
+}
+#op{
+    padding: 15vw;
+    padding-top: 480px;
+    
+
+}
+.qp{
+    background:url('../wark03/image-photography.jpg') no-repeat;
+    background-size: 100%;
+}
+.er{
+    width: 100%;
+    height: 100%;  
+    border-radius: 50px;
+}
+.kl01{
+    text-align: center;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: ;
+}
+#cvn01{
+    text-align: center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+#kl12{
+    padding-left: 100px;
+    height: 100%;
+    width: 100%;
+}
